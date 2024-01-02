@@ -1,11 +1,11 @@
-# netflix-s3-cicd
+# staticweb-s3-cicd
 
 
 Quick setup — if you’ve done this kind of thing before
 
 or	
 
-https://github.com/santos-pardos/netflix-s3-cicd.git
+https://github.com/santos-pardos/staticweb-s3-cicd.git
 
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
@@ -16,12 +16,12 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/santos-pardos/netflix-s3-cicd.git
+git remote add origin https://github.com/santos-pardos/staticweb-s3-cicd.git
 git push -u origin main
 ```
 …or push an existing repository from the command line
 ```
-git remote add origin https://github.com/santos-pardos/netflix-s3-cicd.git
+git remote add origin https://github.com/santos-pardos/staticweb-s3-cicd.git
 git branch -M main
 git push -u origin main
 ```
