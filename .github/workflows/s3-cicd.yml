@@ -1,4 +1,4 @@
-name: deploy static website to AWS-S3 - V2
+name: deploy static website to AWS-S3 - V3
 
 on:
   push:
